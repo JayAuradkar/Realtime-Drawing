@@ -1,0 +1,26 @@
+#TITLE{
+    margin-top: 0px;
+    width: 100%;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 10px 10px 40px red; 
+}
+#PROFOOT{
+    position: fixed;
+    bottom: 0;
+    background-color: aquamarine;
+    right: 1;
+    text-shadow: 10px 10px 40px red;
+    margin-right: 20px;
+    font-size: larger;
+}
+canvas{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    box-shadow: 10px 10px 100px blue ;
+    
+}
+h1{
+    text-shadow: 10px 10px 100px red;
+}
